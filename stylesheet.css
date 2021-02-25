@@ -1,0 +1,147 @@
+body{
+   background-color:#9c9f8f;
+   margin:0px;
+   font-family:veranda,georgia,seriff;
+   font-size:14px;
+}
+#header{
+  
+   background-color:#5c755e;
+   margin:10px;
+   height:90px;
+   border-radius:5px;
+}
+h3{
+   font-size:300%;
+   text-align:center;
+   font-family:"century gothic",veranda,georgia,seriff;
+   color:#e5e4d7;
+   position:relative;
+   top:22%;
+
+}
+#navbar ul{
+    padding:5px;
+   list-style-tyoe:none;
+   text-align:center;
+   background-color:#000;
+   margin:10px;
+   border-radius:2px;
+}
+#navbar ul li{
+   display:inline;
+}
+#navbar ul li a{
+   text-decoration:none;
+   font-family:Arial;
+   color:#fff;
+   padding: .2em 1em;
+   background-color:#000;
+}
+#navbar ul li a:hover{
+   color:#000;
+   background-color:#fff;
+}
+.main {
+    padding:5px;
+   font-size:25px;
+   background-color:e5e4d7;
+   margin:10px;
+   border-radius:5px;
+   color:#ce282e;
+}
+.sidebar {
+    color:
+    padding:opx;
+   font-size:25px;
+   background-color:e5e4d7;
+   margin:5px;
+   border-radius:5px;
+   float:right;
+   width:260px;
+}
+.main1 {
+    padding:opx;
+   font-size:25px;
+   background-color:e5e4d7;
+   margin:5px;
+   border-radius:5px;
+   float:right;
+   width:4450px;
+}.main1 {
+    padding:opx;
+   font-size:25px;
+   background-color:e5e4d7;
+   margin:5px;
+   border-radius:5px;
+   float:right;
+   width:450px;
+}
+
+
+#images{
+   padding:2px;
+   background-color:e5e4d7;
+   margin:20px;
+   border-radius:5px;
+   font-family:Aerial;
+   font-size:150%;
+   color:darkblue;
+  
+}
+
+ .imagesidebar {
+    padding:0px;
+   font-size:25px;
+   background-color:e5e4d7;
+   margin-right:25px;
+   border-radius:5px;
+   float:right;
+   width:300px;
+   opacity:1.0;
+}
+.imagesidebar:hover{
+   opacity:0.4;
+}
+#footer{
+    background-color:#5c755e;
+    margin:10px;
+    height:50px;
+    border-radius:5px;
+    text-align:center;
+    font-family:Arial,veranda,georgia,seriff;
+    color:#e5e5d0;
+    padding:15px;
+    font-size:90%;
+}
+#footer ul {
+   padding:5px;
+   list-style-tyoe:none;
+   text-align:center;
+   margin:10px;
+   border-radius:2px;
+}
+#footer ul li{
+   display:inline;
+}
+#footer ul li a{
+   text-decoration:none;
+   font-family:Arial;
+   color:#efe5d0;
+   padding: .2em 1em;
+   background-color:#5c755e;
+}
+#footer ul li a:hover{
+   color:#000;
+   background-color:#fff;
+}
+<!--.inquiry {
+   padding:opx;
+   font-size:20px;
+   background-color:e5e4d7;
+   margin:0px;-->
+}
+  
+   
+
+    
